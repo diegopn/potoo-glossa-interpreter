@@ -2,12 +2,11 @@
   <img src="https://diegopn.github.io/potoo-site/src/assets/images/language-interpreter-icon.svg?v=1c651ca7" alt="Potoo IDE language interpreter icon" width="120" />
 </p>
 
-<h1 align="center">Glossa Interpreter</h1>
+<h1 align="center">Glossa Interpreter Scaffold</h1>
 
 <p align="center">A minimal Rust scaffold for evaluating Glossa, a Greek curriculum pseudolanguage.</p>
 
 <p align="center">
-  <a href="https://github.com/diegopn/potoo-glossa-interpreter/releases">Download</a> ·
   <a href="https://diegopn.github.io/potoo-site/manual/glossa/">Website</a> ·
   <a href="https://diegopn.github.io/potoo-site/manual/glossa/">User manual</a>
 </p>
@@ -23,7 +22,7 @@ Glossa is a curriculum notation and pseudolanguage without one official software
 
 ## Status
 
-This candidate is under evaluation. The repository contains only a minimal Rust crate skeleton. It does not parse or execute candidate languages, notations, or environments, provide an interpreter or command-line program, or include language tests. No downloadable binaries are available yet.
+This candidate is under evaluation. The repository contains only a minimal Rust crate skeleton. It does not parse or execute Glossa and provides no runnable CLI or language tests. No prebuilt release is available.
 
 ## Build the scaffold
 
